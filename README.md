@@ -21,3 +21,7 @@ Este segundo trabalho também faz parte do curso de PDSB e aprofunda a análise 
 - Carlos André Antunes
 - João Lucas Pereira dos Santos de Paula
 - Shirley Karolina da Silva Ferreira
+
+
+
+# OBS: Seguir os pdfs, estão bem explicados.
